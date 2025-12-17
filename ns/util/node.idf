@@ -15,5 +15,7 @@
     <value>com.wm.passman.PasswordManagerException</value>
     <value>com.wm.util.security.WmSecureString</value>
     <value>com.wm.app.b2b.server.OutboundPasswordManager</value>
+    <value>com.wm.app.b2b.server.ServerAPI</value>
+    <value>com.wm.app.b2b.server.ServerLogHandler</value>
   </array>
 </Values>
